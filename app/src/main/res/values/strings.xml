@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Slider Push Notification</string>
+    <string name="api_url">https://api.rit.im/</string>
+    <string name="json_events">slider_notification_events.json</string>
+    <string name="json_ecommerce">slider_notification_ecommerce.json</string>
+    <string name="json_news">slider_notification_news.json</string>
+</resources>
