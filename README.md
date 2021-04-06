@@ -3,6 +3,7 @@ Slider Push Notification
 
 Sample Json;
 
+```json
 {
     "heading" : "Hafta Sonu Etkinlikleri",
     "call_to_action": "Biletler Biletix'de",
@@ -24,3 +25,4 @@ Sample Json;
         }
     ]
 }
+```
